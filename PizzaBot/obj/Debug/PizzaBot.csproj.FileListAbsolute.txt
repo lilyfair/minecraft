@@ -1,0 +1,2 @@
+C:\Users\limatth\source\repos\PizzaBot\PizzaBot\obj\Debug\PizzaBot.csprojResolveAssemblyReference.cache
+C:\Users\limatth\source\repos\PizzaBot\PizzaBot\obj\Debug\PizzaBot.csproj.CoreCompileInputs.cache
